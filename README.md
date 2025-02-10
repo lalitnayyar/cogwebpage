@@ -2,6 +2,8 @@
 
 A professional Node.js REST client for Cognigy.AI with real-time chat benchmarks and analytics.
 
+![Image 1](https://github.com/lalitnayyar/cogwebpage/blob/main/chrome_DiwkWZMalz.png)
+![Image 2](https://github.com/lalitnayyar/cogwebpage/blob/main/IBNTuEff5s.png)
 
 
 ## Features
